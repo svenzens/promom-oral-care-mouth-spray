@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://promom-organic-fresh-mouth-spray.vercel.app/sitemap.xml
